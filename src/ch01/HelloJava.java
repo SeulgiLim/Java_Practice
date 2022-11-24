@@ -7,6 +7,6 @@ public class HelloJava {
 		System.out.println("HaHaHa");
 		System.out.println("Practice!");
 		System.out.println("zzzzzzz");
+		
 	}
-
 }
