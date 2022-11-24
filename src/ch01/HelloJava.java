@@ -7,6 +7,9 @@ public class HelloJava {
 		System.out.println("HaHaHa");
 		System.out.println("Practice!");
 		System.out.println("zzzzzzz");
+		System.out.println("Spring");
 		
 	}
 }
+
+//개발환경 구축 - Eclipse, Spring, Tomcat 설치
