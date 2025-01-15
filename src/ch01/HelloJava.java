@@ -13,3 +13,13 @@ public class HelloJava {
 }
 
 //개발환경 구축 - Eclipse, Spring, Tomcat 설치
+
+
+package ch01;
+
+public class HelloJava {
+
+	public static void main(String[] args) {
+		System.out.println("HelloJava");
+	}
+}
